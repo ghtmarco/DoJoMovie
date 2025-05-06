@@ -12,7 +12,6 @@ import com.android.volley.Request
 import com.android.volley.RequestQueue
 import com.android.volley.toolbox.JsonArrayRequest
 import com.android.volley.toolbox.Volley
-import com.dojomovie.app.R
 import com.dojomovie.app.activities.DetailFilmActivity
 import com.dojomovie.app.adapters.FilmAdapter
 import com.dojomovie.app.database.DatabaseHelper

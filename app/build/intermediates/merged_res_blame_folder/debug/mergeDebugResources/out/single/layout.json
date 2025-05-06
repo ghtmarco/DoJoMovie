@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.dojomovie.app-mergeDebugResources-57:/layout/activity_login.xml",
+        "source": "com.dojomovie.app-main-60:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.dojomovie.app-mergeDebugResources-57:/layout/activity_main.xml",
+        "source": "com.dojomovie.app-main-60:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.dojomovie.app-mergeDebugResources-57:/layout/activity_splash.xml",
+        "source": "com.dojomovie.app-main-60:/layout/activity_splash.xml"
+    }
+]

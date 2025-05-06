@@ -11,7 +11,6 @@ import android.text.style.ClickableSpan
 import android.view.View
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
-import com.dojomovie.app.R
 import com.dojomovie.app.database.DatabaseHelper
 import com.dojomovie.app.databinding.ActivityRegisterBinding
 import com.dojomovie.app.utils.NetworkUtils

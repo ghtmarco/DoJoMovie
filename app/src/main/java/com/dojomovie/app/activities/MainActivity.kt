@@ -3,7 +3,6 @@ package com.dojomovie.app.activities
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import androidx.fragment.app.Fragment
-import com.dojomovie.app.R
 import com.dojomovie.app.databinding.ActivityMainBinding
 import com.dojomovie.app.fragments.HomeFragment
 import com.dojomovie.app.fragments.HistoryFragment

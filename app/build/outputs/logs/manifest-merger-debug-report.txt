@@ -1,0 +1,541 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Download\DoJoMovie\app\src\main\AndroidManifest.xml:2:1-77:12
+INJECTED from E:\Download\DoJoMovie\app\src\main\AndroidManifest.xml:2:1-77:12
+INJECTED from E:\Download\DoJoMovie\app\src\main\AndroidManifest.xml:2:1-77:12
+INJECTED from E:\Download\DoJoMovie\app\src\main\AndroidManifest.xml:2:1-77:12
+MERGED from [androidx.databinding:databinding-adapters:8.9.2] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\b0f2b93c3825de64385d671bdf663938\transformed\databinding-adapters-8.9.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.databinding:databinding-ktx:8.9.2] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\b5b76d1a3784b7a329bcac84140fe19a\transformed\databinding-ktx-8.9.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.databinding:databinding-runtime:8.9.2] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\47362935b226469bf6c063492e845fc2\transformed\databinding-runtime-8.9.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.databinding:viewbinding:8.9.2] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\d1b9b23aca65fdc4a176b5d4e2074584\transformed\viewbinding-8.9.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-common:2.8.9] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\5ab038867f9ed019a963f63c00b44ed5\transformed\navigation-common-2.8.9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.8.9] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\19805ea1fbbfcd61b76e629ff105a95f\transformed\navigation-common-ktx-2.8.9\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-runtime:2.8.9] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\f1753ea535052548f2e6195157c6b40b\transformed\navigation-runtime-2.8.9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.8.9] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\a0049441bf673cd1fe1cdf627a68567a\transformed\navigation-runtime-ktx-2.8.9\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-fragment:2.8.9] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\4fb9043a56d5bc0098db340d00f2c0f8\transformed\navigation-fragment-2.8.9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.8.9] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\4f4db2bcbef282a49ef4445814068d90\transformed\navigation-fragment-ktx-2.8.9\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.8.9] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\3e46f1795ddd517bcff10359acca38b2\transformed\navigation-ui-ktx-2.8.9\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-ui:2.8.9] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\b5e84b82590250625b9af7853042b699\transformed\navigation-ui-2.8.9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\bf3056d9198087a96978311bbf930411\transformed\material-1.12.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\8a0d358f25583586e16c930359a1e655\transformed\constraintlayout-2.2.1\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\4ce47632990a86864bd1c6d02503ce4d\transformed\appcompat-resources-1.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.appcompat:appcompat:1.7.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\c9e63df235c2610d549a9e5d6d46412b\transformed\appcompat-1.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta02] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\4ffe331e1c2a3bbfd9054e6d1aee1ca6\transformed\viewpager2-1.1.0-beta02\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.recyclerview:recyclerview:1.4.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\cf5461352ac98c37897c99007e7d21b1\transformed\recyclerview-1.4.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\7e26c02651d30c7bef6123bf0bf468e5\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\c199c8b374ba3557fbaaf5f40375ba9b\transformed\emoji2-1.3.0\AndroidManifest.xml:17:1-35:12
+MERGED from [com.google.android.gms:play-services-maps:19.2.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\a927a9fdc82551239e923fc6a71216a9\transformed\play-services-maps-19.2.0\AndroidManifest.xml:16:1-35:12
+MERGED from [com.github.bumptech.glide:glide:4.16.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\54f73706a97e878c40178badbf3577ca\transformed\glide-4.16.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\036ca425e7d9be8f7d44abfc92644c72\transformed\play-services-base-18.5.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\4436f912b5a9b5f1ab91b712083dd284\transformed\play-services-tasks-18.2.0\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\0e61c2d87a90069a3af587fa332de66b\transformed\play-services-basement-18.4.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.fragment:fragment-ktx:1.6.2] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\8c1a1bcfa74ead5ca7f15e3c53f32b4a\transformed\fragment-ktx-1.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.6.2] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\404317d8dda82258c1592c09767e2c4e\transformed\fragment-1.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-ktx:1.8.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\fff7df33af1b6964db882e4d4b347c29\transformed\activity-ktx-1.8.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\643343c41d84bcc8a7b483b34f917246\transformed\activity-1.8.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\e8d27b9a5e0b32e54f7643569fb3f27a\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\ad4245a6ba57241d07593f9e61bbb414\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\18e1c6efa64c7608c3606c73f6bfd70b\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\bc09252e3c0c7222b0e240f466357376\transformed\transition-1.5.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\d6d4f85bceed24cc35bdf34d4bbd07f5\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\e6c0e0428a2958612cb8f4fb610d0ebf\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\e58c275d2da735c5833087b6231d53e9\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\e4cbfa195cf84ff816bc000334fa8651\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\ee805d85d63c10ca50da987a04a00a11\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\2dcd3f1d1e0271bdc2ca4bb90415f109\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\da84c208ca66844d423f7f641e502b61\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window:1.0.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\29a140d86ec79001070441c82a0f1682\transformed\window-1.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.core:core:1.16.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\cdf7c22dd695ee1a8be60db31bf022ea\transformed\core-1.16.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\0c9dad4049e4018f7509fe1cb4d2b47b\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\5abc6816e7f938a98442e9b315ef4bda\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\76eb62f772331814e2ca0296c38f8609\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.7] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\d083a305a6c1023c2457d6145a702b28\transformed\lifecycle-runtime-ktx-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.7] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\5e765dbf64eeebdb386c490468bb1cdd\transformed\lifecycle-runtime-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.7] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\15da498c862087cf5ba9515be0d39371\transformed\lifecycle-viewmodel-2.8.7\AndroidManifest.xml:2:1-5:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.7] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\ba9635f8d94e5f52019ecc64e1f0e150\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.7] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\36a9385886347c9999c1e640f7d0565a\transformed\lifecycle-livedata-core-2.8.7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.7] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\1c77fd64170e9d2d0b5e2819212e1387\transformed\lifecycle-livedata-core-ktx-2.8.7\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.8.7] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\e80b7908752140c634596be345874a71\transformed\lifecycle-service-2.8.7\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\66c0b6907f7c6212cefb15858971bd32\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.7] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\6c714569cf6f0d97a43a00bcf8a455b3\transformed\lifecycle-livedata-2.8.7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.7] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\283829c9229268b6b652d5fd3dfa205b\transformed\lifecycle-viewmodel-ktx-2.8.7\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.8.7] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\9c25b992d374ef0aa262cd9d311d3908\transformed\lifecycle-livedata-ktx-2.8.7\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.7] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\99889261d598bc1aa95de4bfd8ba0a26\transformed\lifecycle-viewmodel-savedstate-2.8.7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.16.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\fc6c447041f12fee18a6aa92a238d7b5\transformed\core-ktx-1.16.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\2d3497c7002d71b0d6e878ea8faf1f01\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\83b18a8df5e1a03fdec7c0cf12ca2e10\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\13111e84893c66fd08814acd725e53bb\transformed\profileinstaller-1.4.0\AndroidManifest.xml:17:1-55:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.16.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\1a50c18ece3f3c7e6b50048b295795f7\transformed\gifdecoder-4.16.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\fb3262ed22f64a0a29c8dd1feb2910c5\transformed\exifinterface-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\a23dd9e131673314a7db014bf169b6b5\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\5c725361045081a3f684ad6c4bff83ad\transformed\tracing-1.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\07a65f78a710a758f4391ea9a23d7bcf\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\6f931bab03e29434e1fbec1843ecde8e\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\071bdaf6bee44fe5a7b4788514ec973c\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\f6c7a547615e18e0e7ad9bdeaedb694d\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\f0521326f3d321e2effe54df3306b0b0\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\a1a4bc72ad9d218162712370a04065fb\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\98e965363aa7cddb084c205226677c0c\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core-viewtree:1.0.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\7261511d47734d237cd4aea2db84a2c7\transformed\core-viewtree-1.0.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.android.volley:volley:1.2.1] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\fb4b138c036586d9433ec2e12669c347\transformed\volley-1.2.1\AndroidManifest.xml:2:1-7:12
+	package
+		INJECTED from E:\Download\DoJoMovie\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\Download\DoJoMovie\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from E:\Download\DoJoMovie\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from E:\Download\DoJoMovie\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Download\DoJoMovie\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from E:\Download\DoJoMovie\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.google.android.gms:play-services-maps:19.2.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\a927a9fdc82551239e923fc6a71216a9\transformed\play-services-maps-19.2.0\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-maps:19.2.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\a927a9fdc82551239e923fc6a71216a9\transformed\play-services-maps-19.2.0\AndroidManifest.xml:21:5-66
+	android:name
+		ADDED from E:\Download\DoJoMovie\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\Download\DoJoMovie\app\src\main\AndroidManifest.xml:6:5-79
+MERGED from [com.google.android.gms:play-services-maps:19.2.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\a927a9fdc82551239e923fc6a71216a9\transformed\play-services-maps-19.2.0\AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-maps:19.2.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\a927a9fdc82551239e923fc6a71216a9\transformed\play-services-maps-19.2.0\AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from E:\Download\DoJoMovie\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from E:\Download\DoJoMovie\app\src\main\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from E:\Download\DoJoMovie\app\src\main\AndroidManifest.xml:7:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from E:\Download\DoJoMovie\app\src\main\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from E:\Download\DoJoMovie\app\src\main\AndroidManifest.xml:8:22-78
+uses-permission#android.permission.SEND_SMS
+ADDED from E:\Download\DoJoMovie\app\src\main\AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from E:\Download\DoJoMovie\app\src\main\AndroidManifest.xml:9:22-64
+application
+ADDED from E:\Download\DoJoMovie\app\src\main\AndroidManifest.xml:11:5-75:19
+INJECTED from E:\Download\DoJoMovie\app\src\main\AndroidManifest.xml:11:5-75:19
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\bf3056d9198087a96978311bbf930411\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\bf3056d9198087a96978311bbf930411\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\8a0d358f25583586e16c930359a1e655\transformed\constraintlayout-2.2.1\AndroidManifest.xml:7:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\8a0d358f25583586e16c930359a1e655\transformed\constraintlayout-2.2.1\AndroidManifest.xml:7:5-20
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\c199c8b374ba3557fbaaf5f40375ba9b\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\c199c8b374ba3557fbaaf5f40375ba9b\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.android.gms:play-services-maps:19.2.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\a927a9fdc82551239e923fc6a71216a9\transformed\play-services-maps-19.2.0\AndroidManifest.xml:31:5-34:19
+MERGED from [com.google.android.gms:play-services-maps:19.2.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\a927a9fdc82551239e923fc6a71216a9\transformed\play-services-maps-19.2.0\AndroidManifest.xml:31:5-34:19
+MERGED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\036ca425e7d9be8f7d44abfc92644c72\transformed\play-services-base-18.5.0\AndroidManifest.xml:4:5-6:19
+MERGED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\036ca425e7d9be8f7d44abfc92644c72\transformed\play-services-base-18.5.0\AndroidManifest.xml:4:5-6:19
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\4436f912b5a9b5f1ab91b712083dd284\transformed\play-services-tasks-18.2.0\AndroidManifest.xml:4:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\4436f912b5a9b5f1ab91b712083dd284\transformed\play-services-tasks-18.2.0\AndroidManifest.xml:4:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\0e61c2d87a90069a3af587fa332de66b\transformed\play-services-basement-18.4.0\AndroidManifest.xml:5:5-7:19
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\0e61c2d87a90069a3af587fa332de66b\transformed\play-services-basement-18.4.0\AndroidManifest.xml:5:5-7:19
+MERGED from [androidx.window:window:1.0.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\29a140d86ec79001070441c82a0f1682\transformed\window-1.0.0\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\29a140d86ec79001070441c82a0f1682\transformed\window-1.0.0\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.16.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\cdf7c22dd695ee1a8be60db31bf022ea\transformed\core-1.16.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.16.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\cdf7c22dd695ee1a8be60db31bf022ea\transformed\core-1.16.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\66c0b6907f7c6212cefb15858971bd32\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\66c0b6907f7c6212cefb15858971bd32\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\13111e84893c66fd08814acd725e53bb\transformed\profileinstaller-1.4.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\13111e84893c66fd08814acd725e53bb\transformed\profileinstaller-1.4.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\a23dd9e131673314a7db014bf169b6b5\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\a23dd9e131673314a7db014bf169b6b5\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\6f931bab03e29434e1fbec1843ecde8e\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\6f931bab03e29434e1fbec1843ecde8e\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from E:\Download\DoJoMovie\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.16.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\cdf7c22dd695ee1a8be60db31bf022ea\transformed\core-1.16.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from E:\Download\DoJoMovie\app\src\main\AndroidManifest.xml:19:9-35
+	android:label
+		ADDED from E:\Download\DoJoMovie\app\src\main\AndroidManifest.xml:17:9-41
+	android:fullBackupContent
+		ADDED from E:\Download\DoJoMovie\app\src\main\AndroidManifest.xml:15:9-54
+	android:roundIcon
+		ADDED from E:\Download\DoJoMovie\app\src\main\AndroidManifest.xml:18:9-54
+	tools:targetApi
+		ADDED from E:\Download\DoJoMovie\app\src\main\AndroidManifest.xml:21:9-29
+	android:icon
+		ADDED from E:\Download\DoJoMovie\app\src\main\AndroidManifest.xml:16:9-43
+	android:allowBackup
+		ADDED from E:\Download\DoJoMovie\app\src\main\AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from E:\Download\DoJoMovie\app\src\main\AndroidManifest.xml:20:9-52
+	android:dataExtractionRules
+		ADDED from E:\Download\DoJoMovie\app\src\main\AndroidManifest.xml:14:9-65
+	android:name
+		ADDED from E:\Download\DoJoMovie\app\src\main\AndroidManifest.xml:12:9-45
+meta-data#com.google.android.geo.API_KEY
+ADDED from E:\Download\DoJoMovie\app\src\main\AndroidManifest.xml:24:9-26:56
+	android:value
+		ADDED from E:\Download\DoJoMovie\app\src\main\AndroidManifest.xml:26:13-53
+	android:name
+		ADDED from E:\Download\DoJoMovie\app\src\main\AndroidManifest.xml:25:13-58
+activity#com.dojomovie.activities.SplashActivity
+ADDED from E:\Download\DoJoMovie\app\src\main\AndroidManifest.xml:29:9-37:20
+	android:exported
+		ADDED from E:\Download\DoJoMovie\app\src\main\AndroidManifest.xml:31:13-36
+	android:theme
+		ADDED from E:\Download\DoJoMovie\app\src\main\AndroidManifest.xml:32:13-58
+	android:name
+		ADDED from E:\Download\DoJoMovie\app\src\main\AndroidManifest.xml:30:13-54
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\Download\DoJoMovie\app\src\main\AndroidManifest.xml:33:13-36:29
+action#android.intent.action.MAIN
+ADDED from E:\Download\DoJoMovie\app\src\main\AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from E:\Download\DoJoMovie\app\src\main\AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Download\DoJoMovie\app\src\main\AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from E:\Download\DoJoMovie\app\src\main\AndroidManifest.xml:35:27-74
+activity#com.dojomovie.activities.LoginActivity
+ADDED from E:\Download\DoJoMovie\app\src\main\AndroidManifest.xml:39:9-43:52
+	android:screenOrientation
+		ADDED from E:\Download\DoJoMovie\app\src\main\AndroidManifest.xml:43:13-49
+	android:exported
+		ADDED from E:\Download\DoJoMovie\app\src\main\AndroidManifest.xml:41:13-37
+	android:theme
+		ADDED from E:\Download\DoJoMovie\app\src\main\AndroidManifest.xml:42:13-51
+	android:name
+		ADDED from E:\Download\DoJoMovie\app\src\main\AndroidManifest.xml:40:13-53
+activity#com.dojomovie.activities.RegisterActivity
+ADDED from E:\Download\DoJoMovie\app\src\main\AndroidManifest.xml:45:9-49:52
+	android:screenOrientation
+		ADDED from E:\Download\DoJoMovie\app\src\main\AndroidManifest.xml:49:13-49
+	android:exported
+		ADDED from E:\Download\DoJoMovie\app\src\main\AndroidManifest.xml:47:13-37
+	android:theme
+		ADDED from E:\Download\DoJoMovie\app\src\main\AndroidManifest.xml:48:13-51
+	android:name
+		ADDED from E:\Download\DoJoMovie\app\src\main\AndroidManifest.xml:46:13-56
+activity#com.dojomovie.activities.OTPActivity
+ADDED from E:\Download\DoJoMovie\app\src\main\AndroidManifest.xml:51:9-55:52
+	android:screenOrientation
+		ADDED from E:\Download\DoJoMovie\app\src\main\AndroidManifest.xml:55:13-49
+	android:exported
+		ADDED from E:\Download\DoJoMovie\app\src\main\AndroidManifest.xml:53:13-37
+	android:theme
+		ADDED from E:\Download\DoJoMovie\app\src\main\AndroidManifest.xml:54:13-51
+	android:name
+		ADDED from E:\Download\DoJoMovie\app\src\main\AndroidManifest.xml:52:13-51
+activity#com.dojomovie.activities.MainActivity
+ADDED from E:\Download\DoJoMovie\app\src\main\AndroidManifest.xml:57:9-61:52
+	android:screenOrientation
+		ADDED from E:\Download\DoJoMovie\app\src\main\AndroidManifest.xml:61:13-49
+	android:exported
+		ADDED from E:\Download\DoJoMovie\app\src\main\AndroidManifest.xml:59:13-37
+	android:theme
+		ADDED from E:\Download\DoJoMovie\app\src\main\AndroidManifest.xml:60:13-63
+	android:name
+		ADDED from E:\Download\DoJoMovie\app\src\main\AndroidManifest.xml:58:13-52
+activity#com.dojomovie.activities.DetailFilmActivity
+ADDED from E:\Download\DoJoMovie\app\src\main\AndroidManifest.xml:63:9-67:52
+	android:screenOrientation
+		ADDED from E:\Download\DoJoMovie\app\src\main\AndroidManifest.xml:67:13-49
+	android:exported
+		ADDED from E:\Download\DoJoMovie\app\src\main\AndroidManifest.xml:65:13-37
+	android:theme
+		ADDED from E:\Download\DoJoMovie\app\src\main\AndroidManifest.xml:66:13-51
+	android:name
+		ADDED from E:\Download\DoJoMovie\app\src\main\AndroidManifest.xml:64:13-58
+activity#com.dojomovie.activities.HistoryActivity
+ADDED from E:\Download\DoJoMovie\app\src\main\AndroidManifest.xml:69:9-73:52
+	android:screenOrientation
+		ADDED from E:\Download\DoJoMovie\app\src\main\AndroidManifest.xml:73:13-49
+	android:exported
+		ADDED from E:\Download\DoJoMovie\app\src\main\AndroidManifest.xml:71:13-37
+	android:theme
+		ADDED from E:\Download\DoJoMovie\app\src\main\AndroidManifest.xml:72:13-51
+	android:name
+		ADDED from E:\Download\DoJoMovie\app\src\main\AndroidManifest.xml:70:13-55
+uses-sdk
+INJECTED from E:\Download\DoJoMovie\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Download\DoJoMovie\app\src\main\AndroidManifest.xml
+INJECTED from E:\Download\DoJoMovie\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:8.9.2] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\b0f2b93c3825de64385d671bdf663938\transformed\databinding-adapters-8.9.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:databinding-adapters:8.9.2] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\b0f2b93c3825de64385d671bdf663938\transformed\databinding-adapters-8.9.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:databinding-ktx:8.9.2] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\b5b76d1a3784b7a329bcac84140fe19a\transformed\databinding-ktx-8.9.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:databinding-ktx:8.9.2] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\b5b76d1a3784b7a329bcac84140fe19a\transformed\databinding-ktx-8.9.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:databinding-runtime:8.9.2] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\47362935b226469bf6c063492e845fc2\transformed\databinding-runtime-8.9.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:databinding-runtime:8.9.2] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\47362935b226469bf6c063492e845fc2\transformed\databinding-runtime-8.9.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.9.2] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\d1b9b23aca65fdc4a176b5d4e2074584\transformed\viewbinding-8.9.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.9.2] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\d1b9b23aca65fdc4a176b5d4e2074584\transformed\viewbinding-8.9.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-common:2.8.9] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\5ab038867f9ed019a963f63c00b44ed5\transformed\navigation-common-2.8.9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.8.9] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\5ab038867f9ed019a963f63c00b44ed5\transformed\navigation-common-2.8.9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.8.9] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\19805ea1fbbfcd61b76e629ff105a95f\transformed\navigation-common-ktx-2.8.9\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.8.9] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\19805ea1fbbfcd61b76e629ff105a95f\transformed\navigation-common-ktx-2.8.9\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.8.9] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\f1753ea535052548f2e6195157c6b40b\transformed\navigation-runtime-2.8.9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.8.9] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\f1753ea535052548f2e6195157c6b40b\transformed\navigation-runtime-2.8.9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.8.9] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\a0049441bf673cd1fe1cdf627a68567a\transformed\navigation-runtime-ktx-2.8.9\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.8.9] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\a0049441bf673cd1fe1cdf627a68567a\transformed\navigation-runtime-ktx-2.8.9\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.8.9] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\4fb9043a56d5bc0098db340d00f2c0f8\transformed\navigation-fragment-2.8.9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.8.9] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\4fb9043a56d5bc0098db340d00f2c0f8\transformed\navigation-fragment-2.8.9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.8.9] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\4f4db2bcbef282a49ef4445814068d90\transformed\navigation-fragment-ktx-2.8.9\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.8.9] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\4f4db2bcbef282a49ef4445814068d90\transformed\navigation-fragment-ktx-2.8.9\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-ui-ktx:2.8.9] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\3e46f1795ddd517bcff10359acca38b2\transformed\navigation-ui-ktx-2.8.9\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-ui-ktx:2.8.9] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\3e46f1795ddd517bcff10359acca38b2\transformed\navigation-ui-ktx-2.8.9\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-ui:2.8.9] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\b5e84b82590250625b9af7853042b699\transformed\navigation-ui-2.8.9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-ui:2.8.9] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\b5e84b82590250625b9af7853042b699\transformed\navigation-ui-2.8.9\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\bf3056d9198087a96978311bbf930411\transformed\material-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\bf3056d9198087a96978311bbf930411\transformed\material-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\8a0d358f25583586e16c930359a1e655\transformed\constraintlayout-2.2.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\8a0d358f25583586e16c930359a1e655\transformed\constraintlayout-2.2.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\4ce47632990a86864bd1c6d02503ce4d\transformed\appcompat-resources-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\4ce47632990a86864bd1c6d02503ce4d\transformed\appcompat-resources-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\c9e63df235c2610d549a9e5d6d46412b\transformed\appcompat-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\c9e63df235c2610d549a9e5d6d46412b\transformed\appcompat-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta02] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\4ffe331e1c2a3bbfd9054e6d1aee1ca6\transformed\viewpager2-1.1.0-beta02\AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta02] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\4ffe331e1c2a3bbfd9054e6d1aee1ca6\transformed\viewpager2-1.1.0-beta02\AndroidManifest.xml:5:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.4.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\cf5461352ac98c37897c99007e7d21b1\transformed\recyclerview-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.4.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\cf5461352ac98c37897c99007e7d21b1\transformed\recyclerview-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\7e26c02651d30c7bef6123bf0bf468e5\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\7e26c02651d30c7bef6123bf0bf468e5\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\c199c8b374ba3557fbaaf5f40375ba9b\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\c199c8b374ba3557fbaaf5f40375ba9b\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [com.google.android.gms:play-services-maps:19.2.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\a927a9fdc82551239e923fc6a71216a9\transformed\play-services-maps-19.2.0\AndroidManifest.xml:26:5-43
+MERGED from [com.google.android.gms:play-services-maps:19.2.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\a927a9fdc82551239e923fc6a71216a9\transformed\play-services-maps-19.2.0\AndroidManifest.xml:26:5-43
+MERGED from [com.github.bumptech.glide:glide:4.16.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\54f73706a97e878c40178badbf3577ca\transformed\glide-4.16.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:glide:4.16.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\54f73706a97e878c40178badbf3577ca\transformed\glide-4.16.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\036ca425e7d9be8f7d44abfc92644c72\transformed\play-services-base-18.5.0\AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\036ca425e7d9be8f7d44abfc92644c72\transformed\play-services-base-18.5.0\AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\4436f912b5a9b5f1ab91b712083dd284\transformed\play-services-tasks-18.2.0\AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\4436f912b5a9b5f1ab91b712083dd284\transformed\play-services-tasks-18.2.0\AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\0e61c2d87a90069a3af587fa332de66b\transformed\play-services-basement-18.4.0\AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\0e61c2d87a90069a3af587fa332de66b\transformed\play-services-basement-18.4.0\AndroidManifest.xml:3:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.6.2] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\8c1a1bcfa74ead5ca7f15e3c53f32b4a\transformed\fragment-ktx-1.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.6.2] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\8c1a1bcfa74ead5ca7f15e3c53f32b4a\transformed\fragment-ktx-1.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.6.2] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\404317d8dda82258c1592c09767e2c4e\transformed\fragment-1.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.6.2] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\404317d8dda82258c1592c09767e2c4e\transformed\fragment-1.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\fff7df33af1b6964db882e4d4b347c29\transformed\activity-ktx-1.8.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\fff7df33af1b6964db882e4d4b347c29\transformed\activity-ktx-1.8.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\643343c41d84bcc8a7b483b34f917246\transformed\activity-1.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\643343c41d84bcc8a7b483b34f917246\transformed\activity-1.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\e8d27b9a5e0b32e54f7643569fb3f27a\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\e8d27b9a5e0b32e54f7643569fb3f27a\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\ad4245a6ba57241d07593f9e61bbb414\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\ad4245a6ba57241d07593f9e61bbb414\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\18e1c6efa64c7608c3606c73f6bfd70b\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\18e1c6efa64c7608c3606c73f6bfd70b\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\bc09252e3c0c7222b0e240f466357376\transformed\transition-1.5.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\bc09252e3c0c7222b0e240f466357376\transformed\transition-1.5.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\d6d4f85bceed24cc35bdf34d4bbd07f5\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\d6d4f85bceed24cc35bdf34d4bbd07f5\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\e6c0e0428a2958612cb8f4fb610d0ebf\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\e6c0e0428a2958612cb8f4fb610d0ebf\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\e58c275d2da735c5833087b6231d53e9\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\e58c275d2da735c5833087b6231d53e9\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\e4cbfa195cf84ff816bc000334fa8651\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\e4cbfa195cf84ff816bc000334fa8651\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\ee805d85d63c10ca50da987a04a00a11\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\ee805d85d63c10ca50da987a04a00a11\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\2dcd3f1d1e0271bdc2ca4bb90415f109\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\2dcd3f1d1e0271bdc2ca4bb90415f109\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\da84c208ca66844d423f7f641e502b61\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\da84c208ca66844d423f7f641e502b61\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\29a140d86ec79001070441c82a0f1682\transformed\window-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\29a140d86ec79001070441c82a0f1682\transformed\window-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.16.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\cdf7c22dd695ee1a8be60db31bf022ea\transformed\core-1.16.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.16.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\cdf7c22dd695ee1a8be60db31bf022ea\transformed\core-1.16.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\0c9dad4049e4018f7509fe1cb4d2b47b\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\0c9dad4049e4018f7509fe1cb4d2b47b\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\5abc6816e7f938a98442e9b315ef4bda\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\5abc6816e7f938a98442e9b315ef4bda\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\76eb62f772331814e2ca0296c38f8609\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\76eb62f772331814e2ca0296c38f8609\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.7] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\d083a305a6c1023c2457d6145a702b28\transformed\lifecycle-runtime-ktx-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.7] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\d083a305a6c1023c2457d6145a702b28\transformed\lifecycle-runtime-ktx-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.7] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\5e765dbf64eeebdb386c490468bb1cdd\transformed\lifecycle-runtime-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.7] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\5e765dbf64eeebdb386c490468bb1cdd\transformed\lifecycle-runtime-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.7] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\15da498c862087cf5ba9515be0d39371\transformed\lifecycle-viewmodel-2.8.7\AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.7] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\15da498c862087cf5ba9515be0d39371\transformed\lifecycle-viewmodel-2.8.7\AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.7] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\ba9635f8d94e5f52019ecc64e1f0e150\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.7] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\ba9635f8d94e5f52019ecc64e1f0e150\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.7] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\36a9385886347c9999c1e640f7d0565a\transformed\lifecycle-livedata-core-2.8.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.7] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\36a9385886347c9999c1e640f7d0565a\transformed\lifecycle-livedata-core-2.8.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.7] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\1c77fd64170e9d2d0b5e2819212e1387\transformed\lifecycle-livedata-core-ktx-2.8.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.7] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\1c77fd64170e9d2d0b5e2819212e1387\transformed\lifecycle-livedata-core-ktx-2.8.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.8.7] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\e80b7908752140c634596be345874a71\transformed\lifecycle-service-2.8.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.8.7] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\e80b7908752140c634596be345874a71\transformed\lifecycle-service-2.8.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\66c0b6907f7c6212cefb15858971bd32\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\66c0b6907f7c6212cefb15858971bd32\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.7] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\6c714569cf6f0d97a43a00bcf8a455b3\transformed\lifecycle-livedata-2.8.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.7] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\6c714569cf6f0d97a43a00bcf8a455b3\transformed\lifecycle-livedata-2.8.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.7] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\283829c9229268b6b652d5fd3dfa205b\transformed\lifecycle-viewmodel-ktx-2.8.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.7] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\283829c9229268b6b652d5fd3dfa205b\transformed\lifecycle-viewmodel-ktx-2.8.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.8.7] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\9c25b992d374ef0aa262cd9d311d3908\transformed\lifecycle-livedata-ktx-2.8.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.8.7] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\9c25b992d374ef0aa262cd9d311d3908\transformed\lifecycle-livedata-ktx-2.8.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.7] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\99889261d598bc1aa95de4bfd8ba0a26\transformed\lifecycle-viewmodel-savedstate-2.8.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.7] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\99889261d598bc1aa95de4bfd8ba0a26\transformed\lifecycle-viewmodel-savedstate-2.8.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.16.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\fc6c447041f12fee18a6aa92a238d7b5\transformed\core-ktx-1.16.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.16.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\fc6c447041f12fee18a6aa92a238d7b5\transformed\core-ktx-1.16.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\2d3497c7002d71b0d6e878ea8faf1f01\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\2d3497c7002d71b0d6e878ea8faf1f01\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\83b18a8df5e1a03fdec7c0cf12ca2e10\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\83b18a8df5e1a03fdec7c0cf12ca2e10\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\13111e84893c66fd08814acd725e53bb\transformed\profileinstaller-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\13111e84893c66fd08814acd725e53bb\transformed\profileinstaller-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.16.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\1a50c18ece3f3c7e6b50048b295795f7\transformed\gifdecoder-4.16.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.16.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\1a50c18ece3f3c7e6b50048b295795f7\transformed\gifdecoder-4.16.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\fb3262ed22f64a0a29c8dd1feb2910c5\transformed\exifinterface-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\fb3262ed22f64a0a29c8dd1feb2910c5\transformed\exifinterface-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\a23dd9e131673314a7db014bf169b6b5\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\a23dd9e131673314a7db014bf169b6b5\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\5c725361045081a3f684ad6c4bff83ad\transformed\tracing-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\5c725361045081a3f684ad6c4bff83ad\transformed\tracing-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\07a65f78a710a758f4391ea9a23d7bcf\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\07a65f78a710a758f4391ea9a23d7bcf\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\6f931bab03e29434e1fbec1843ecde8e\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\6f931bab03e29434e1fbec1843ecde8e\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\071bdaf6bee44fe5a7b4788514ec973c\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\071bdaf6bee44fe5a7b4788514ec973c\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\f6c7a547615e18e0e7ad9bdeaedb694d\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\f6c7a547615e18e0e7ad9bdeaedb694d\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\f0521326f3d321e2effe54df3306b0b0\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\f0521326f3d321e2effe54df3306b0b0\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\a1a4bc72ad9d218162712370a04065fb\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\a1a4bc72ad9d218162712370a04065fb\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\98e965363aa7cddb084c205226677c0c\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\98e965363aa7cddb084c205226677c0c\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-viewtree:1.0.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\7261511d47734d237cd4aea2db84a2c7\transformed\core-viewtree-1.0.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-viewtree:1.0.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\7261511d47734d237cd4aea2db84a2c7\transformed\core-viewtree-1.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.android.volley:volley:1.2.1] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\fb4b138c036586d9433ec2e12669c347\transformed\volley-1.2.1\AndroidManifest.xml:5:5-43
+MERGED from [com.android.volley:volley:1.2.1] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\fb4b138c036586d9433ec2e12669c347\transformed\volley-1.2.1\AndroidManifest.xml:5:5-43
+	android:targetSdkVersion
+		INJECTED from E:\Download\DoJoMovie\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Download\DoJoMovie\app\src\main\AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\c199c8b374ba3557fbaaf5f40375ba9b\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\66c0b6907f7c6212cefb15858971bd32\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\66c0b6907f7c6212cefb15858971bd32\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\13111e84893c66fd08814acd725e53bb\transformed\profileinstaller-1.4.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\13111e84893c66fd08814acd725e53bb\transformed\profileinstaller-1.4.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\a23dd9e131673314a7db014bf169b6b5\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\a23dd9e131673314a7db014bf169b6b5\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\c199c8b374ba3557fbaaf5f40375ba9b\transformed\emoji2-1.3.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\c199c8b374ba3557fbaaf5f40375ba9b\transformed\emoji2-1.3.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\c199c8b374ba3557fbaaf5f40375ba9b\transformed\emoji2-1.3.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\c199c8b374ba3557fbaaf5f40375ba9b\transformed\emoji2-1.3.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\c199c8b374ba3557fbaaf5f40375ba9b\transformed\emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\c199c8b374ba3557fbaaf5f40375ba9b\transformed\emoji2-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\c199c8b374ba3557fbaaf5f40375ba9b\transformed\emoji2-1.3.0\AndroidManifest.xml:30:17-75
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:19.2.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\a927a9fdc82551239e923fc6a71216a9\transformed\play-services-maps-19.2.0\AndroidManifest.xml:22:5-24:33
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:19.2.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\a927a9fdc82551239e923fc6a71216a9\transformed\play-services-maps-19.2.0\AndroidManifest.xml:23:8-40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:19.2.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\a927a9fdc82551239e923fc6a71216a9\transformed\play-services-maps-19.2.0\AndroidManifest.xml:24:8-31
+queries
+ADDED from [com.google.android.gms:play-services-maps:19.2.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\a927a9fdc82551239e923fc6a71216a9\transformed\play-services-maps-19.2.0\AndroidManifest.xml:27:5-30:15
+package#com.google.android.apps.maps
+ADDED from [com.google.android.gms:play-services-maps:19.2.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\a927a9fdc82551239e923fc6a71216a9\transformed\play-services-maps-19.2.0\AndroidManifest.xml:29:7-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:19.2.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\a927a9fdc82551239e923fc6a71216a9\transformed\play-services-maps-19.2.0\AndroidManifest.xml:29:16-59
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:19.2.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\a927a9fdc82551239e923fc6a71216a9\transformed\play-services-maps-19.2.0\AndroidManifest.xml:33:7-86
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:19.2.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\a927a9fdc82551239e923fc6a71216a9\transformed\play-services-maps-19.2.0\AndroidManifest.xml:33:59-83
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:19.2.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\a927a9fdc82551239e923fc6a71216a9\transformed\play-services-maps-19.2.0\AndroidManifest.xml:33:21-58
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\036ca425e7d9be8f7d44abfc92644c72\transformed\play-services-base-18.5.0\AndroidManifest.xml:5:9-173
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\036ca425e7d9be8f7d44abfc92644c72\transformed\play-services-base-18.5.0\AndroidManifest.xml:5:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\036ca425e7d9be8f7d44abfc92644c72\transformed\play-services-base-18.5.0\AndroidManifest.xml:5:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\036ca425e7d9be8f7d44abfc92644c72\transformed\play-services-base-18.5.0\AndroidManifest.xml:5:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\0e61c2d87a90069a3af587fa332de66b\transformed\play-services-basement-18.4.0\AndroidManifest.xml:6:9-122
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\0e61c2d87a90069a3af587fa332de66b\transformed\play-services-basement-18.4.0\AndroidManifest.xml:6:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\0e61c2d87a90069a3af587fa332de66b\transformed\play-services-basement-18.4.0\AndroidManifest.xml:6:20-65
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\29a140d86ec79001070441c82a0f1682\transformed\window-1.0.0\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\29a140d86ec79001070441c82a0f1682\transformed\window-1.0.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\29a140d86ec79001070441c82a0f1682\transformed\window-1.0.0\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\29a140d86ec79001070441c82a0f1682\transformed\window-1.0.0\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\29a140d86ec79001070441c82a0f1682\transformed\window-1.0.0\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\29a140d86ec79001070441c82a0f1682\transformed\window-1.0.0\AndroidManifest.xml:29:13-51
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.16.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\cdf7c22dd695ee1a8be60db31bf022ea\transformed\core-1.16.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.16.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\cdf7c22dd695ee1a8be60db31bf022ea\transformed\core-1.16.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.16.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\cdf7c22dd695ee1a8be60db31bf022ea\transformed\core-1.16.0\AndroidManifest.xml:23:9-81
+permission#com.dojomovie.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.16.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\cdf7c22dd695ee1a8be60db31bf022ea\transformed\core-1.16.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.16.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\cdf7c22dd695ee1a8be60db31bf022ea\transformed\core-1.16.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.16.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\cdf7c22dd695ee1a8be60db31bf022ea\transformed\core-1.16.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.16.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\cdf7c22dd695ee1a8be60db31bf022ea\transformed\core-1.16.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.16.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\cdf7c22dd695ee1a8be60db31bf022ea\transformed\core-1.16.0\AndroidManifest.xml:26:22-94
+uses-permission#com.dojomovie.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.16.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\cdf7c22dd695ee1a8be60db31bf022ea\transformed\core-1.16.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.16.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\cdf7c22dd695ee1a8be60db31bf022ea\transformed\core-1.16.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\66c0b6907f7c6212cefb15858971bd32\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\66c0b6907f7c6212cefb15858971bd32\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\66c0b6907f7c6212cefb15858971bd32\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:30:17-78
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\13111e84893c66fd08814acd725e53bb\transformed\profileinstaller-1.4.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\13111e84893c66fd08814acd725e53bb\transformed\profileinstaller-1.4.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\13111e84893c66fd08814acd725e53bb\transformed\profileinstaller-1.4.0\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\13111e84893c66fd08814acd725e53bb\transformed\profileinstaller-1.4.0\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\13111e84893c66fd08814acd725e53bb\transformed\profileinstaller-1.4.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\13111e84893c66fd08814acd725e53bb\transformed\profileinstaller-1.4.0\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\13111e84893c66fd08814acd725e53bb\transformed\profileinstaller-1.4.0\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\13111e84893c66fd08814acd725e53bb\transformed\profileinstaller-1.4.0\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\13111e84893c66fd08814acd725e53bb\transformed\profileinstaller-1.4.0\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\13111e84893c66fd08814acd725e53bb\transformed\profileinstaller-1.4.0\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\13111e84893c66fd08814acd725e53bb\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\13111e84893c66fd08814acd725e53bb\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\13111e84893c66fd08814acd725e53bb\transformed\profileinstaller-1.4.0\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\13111e84893c66fd08814acd725e53bb\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\13111e84893c66fd08814acd725e53bb\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\13111e84893c66fd08814acd725e53bb\transformed\profileinstaller-1.4.0\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\13111e84893c66fd08814acd725e53bb\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\13111e84893c66fd08814acd725e53bb\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\13111e84893c66fd08814acd725e53bb\transformed\profileinstaller-1.4.0\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\13111e84893c66fd08814acd725e53bb\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Asphyxia\.gradle\caches\8.11.1\transforms\13111e84893c66fd08814acd725e53bb\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:25-92

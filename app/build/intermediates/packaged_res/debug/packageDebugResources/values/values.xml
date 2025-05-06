@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">#FF66BB6A</color>
+    <color name="background">#FFF5F5F5</color>
+    <color name="black">#FF000000</color>
+    <color name="divider">#FFBDBDBD</color>
+    <color name="error">#FFE91E63</color>
+    <color name="primary">#FF0066CC</color>
+    <color name="primary_dark">#FF004499</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="surface">#FFFFFFFF</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="text_primary">#FF212121</color>
+    <color name="text_secondary">#FF757575</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_logo">App Logo</string>
+    <string name="app_name">DoJo Movie</string>
+    <string name="available_films">Available Films</string>
+    <string name="back">Back</string>
+    <string name="buy">Buy</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="empty_history">No transaction history</string>
+    <string name="error">Error</string>
+    <string name="film_price">Price</string>
+    <string name="film_title">Film Title</string>
+    <string name="have_account">Already has an account? Log in here</string>
+    <string name="history">History</string>
+    <string name="home">Home</string>
+    <string name="loading">Loading...</string>
+    <string name="location">Location</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="logout_confirmation">Are you sure you want to logout?</string>
+    <string name="need_account">Didn\'t have an account? Register here!</string>
+    <string name="no">No</string>
+    <string name="otp_code">OTP Code</string>
+    <string name="password">Password</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="profile">Profile</string>
+    <string name="quantity">Quantity</string>
+    <string name="register">Register</string>
+    <string name="retry">Retry</string>
+    <string name="success">Success</string>
+    <string name="total_price">Total Price</string>
+    <string name="transaction_history">Transaction History</string>
+    <string name="verify">Verify</string>
+    <string name="view_history">View History</string>
+    <string name="yes">Yes</string>
+    <style name="Base.Theme.DoJoMovie" parent="Theme.Material3.DayNight">
+        
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/primary_dark</item>
+        <item name="colorAccent">@color/accent</item>
+        <item name="android:windowBackground">@color/background</item>
+        <item name="android:textColor">@color/text_primary</item>
+        <item name="android:textColorSecondary">@color/text_secondary</item>
+    </style>
+    <style name="Theme.DoJoMovie" parent="Base.Theme.DoJoMovie"/>
+    <style name="Theme.DoJoMovie.NoActionBar" parent="Theme.DoJoMovie">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="Theme.DoJoMovie.Splash" parent="Theme.DoJoMovie">
+        <item name="android:windowBackground">@color/primary</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+</resources>

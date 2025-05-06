@@ -1,4 +1,5 @@
 package com.dojomovie.app.database
+import android.provider.BaseColumns
 
 import android.content.ContentValues
 import android.content.Context

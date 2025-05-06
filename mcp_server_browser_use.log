@@ -1,0 +1,4 @@
+2025-05-06 17:03:01,463 - root - INFO - Anonymized telemetry enabled. See https://docs.browser-use.com/development/telemetry for more information.
+2025-05-06 17:03:03,444 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-05-06 17:03:03,446 - mcp.server.lowlevel.server - INFO - Processing request of type ListResourcesRequest
+2025-05-06 17:03:03,447 - mcp.server.lowlevel.server - INFO - Processing request of type ListResourceTemplatesRequest

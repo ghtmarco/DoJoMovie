@@ -1,5 +1,4 @@
 package com.dojomovie.app.activities
-
 import android.os.Bundle
 import android.text.InputType
 import android.text.TextWatcher
